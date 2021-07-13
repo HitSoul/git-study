@@ -1,2 +1,6 @@
 dshflkahsfl
+<<<<<<< HEAD
 akjfaljsfd
+=======
+adsjflkj
+>>>>>>> master
